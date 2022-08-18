@@ -1,0 +1,2 @@
+# Customer-segmentation-based-on-RFM-method-and-K-Means-clustering
+Performed Exploratory Data Analysis to extract key insights of customer behaviours by using relevant libraries in Python and Applied K-Means Clustering to determine appropriate number of segments with suitable cluster for each customer and Analysed each segment by Recency, Frequency and Monetary (RFM) value table and formulated marketing strategy 
